@@ -5,7 +5,7 @@ public class SwapingWordFromSentence {
 	public static void main(String[] args) {
 		
 		String x = "Welcome to Test Yantra";
-		
+		//
 		// getting first word
 		int firstWord = x.indexOf(" ");
 		
